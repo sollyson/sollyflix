@@ -14,7 +14,7 @@ function App() {
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
         videoDescription={
-          "O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa!"
+          "In today's Photoshop tutorial we're going back to the 1980s to create a rad text effect based on those 80s style chrome logos we used to see for games, movies, TV shows and more."
         }
       />
 

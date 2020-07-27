@@ -1,183 +1,139 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Photoshop",
       "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
-      "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
-      },
+      "cor": "#00C8FE",
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Chrome text effect on Photoshop",
+          "url": "https://www.youtube.com/watch?v=y8brTm5aslo&list=LLzdRU0WhE2aD1Zy92P1uRiA&index=49&t=0s"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Glitch Effect in Photoshop",
+          "url": "https://www.youtube.com/watch?v=57GQ1rS0yU0&list=PL9pkETrdJ0rb-BsDHwE0gmsj0duEXqbQ3&index=3"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Duotone Photo Effect in Photoshop",
+          "url": "https://www.youtube.com/watch?v=27-XSSrj2rM&list=PL9pkETrdJ0rb-BsDHwE0gmsj0duEXqbQ3&index=4"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Color Transition Animation in Photoshop",
+          "url": "https://www.youtube.com/watch?v=bBNohDeo8XI&list=PL9pkETrdJ0rb-BsDHwE0gmsj0duEXqbQ3&index=5"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Dual Lighting Effect in Photoshop",
+          "url": "https://www.youtube.com/watch?v=nuRctOezeNs&list=PL9pkETrdJ0rb-BsDHwE0gmsj0duEXqbQ3&index=6"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
-      ]
-    },
-    {
-      "titulo": "Back End",
-      "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
-      "videos": [
-        {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
-        },
-        {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
-        },
-        {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-        },
-        {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
-        {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Glossy Transparent Cover",
+          "url": "https://www.youtube.com/watch?v=nW0wFO53qXk&list=PL9pkETrdJ0rb-BsDHwE0gmsj0duEXqbQ3&index=2"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
+      "titulo": "Illustrator",
+      "cor": "#FE7318",
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Animal Silhouette Moonlight Vector Illustration",
+          "url": "https://www.youtube.com/watch?v=RtnCn65MdN0&list=PLwnXQvUxjbNsvCG_rJJ8vzhbqtEjphKsf"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Glass Planet Vector Illustration",
+          "url": "https://www.youtube.com/watch?v=Z2SNeH9v-Ug&list=PLwnXQvUxjbNsvCG_rJJ8vzhbqtEjphKsf&index=2"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "The Golden Ratio for Logo or Icon",
+          "url": "https://www.youtube.com/watch?v=6bkVu2xtypw&list=PLwnXQvUxjbNsvCG_rJJ8vzhbqtEjphKsf&index=3"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "How to Make a Beautiful Landscape Background Design",
+          "url": "https://www.youtube.com/watch?v=1gwuBaAMycU"
+        },
+        {
+          "titulo": "Incredible 3D Dots and Lines Glowing Fiber",
+          "url": "https://www.youtube.com/watch?v=BlxkDgZTLVY&list=PLwnXQvUxjbNsvCG_rJJ8vzhbqtEjphKsf&index=6"
         }
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
+      "titulo": "Lightroom",
+      "cor": "#AEDAF0",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Tutorial - Efeito Black Paris",
+          "url": "https://www.youtube.com/watch?v=NKs4Fp3rRlg"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Tutorial De Adobe Lightroom Para Iniciantes",
+          "url": "https://www.youtube.com/watch?v=CwHiL65Hg4I"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "7 Dicas de Lightroom",
+          "url": "https://www.youtube.com/watch?v=hM3weLim9o0"
         }
       ]
     },
     {
-      "titulo": "Games",
-      "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
+      "titulo": "Adobe Xd",
+      "cor": "#FF21C6",
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "How to design a simple website in Adobe Xd for beginners",
+          "url": "https://www.youtube.com/watch?v=jHBMjjLY0Dw"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Top 5 UI/UX Design [Trends] Tips by Cuberto",
+          "url": "https://www.youtube.com/watch?v=gq9w14ag0ls"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Website UI Design in Adobe XD + Exporting as HTML/CSS",
+          "url": "https://www.youtube.com/watch?v=goI6JHO99Qg"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Adobe XD Top 10 Plugins",
+          "url": "https://www.youtube.com/watch?v=d-Hxze_r9rU"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
+      "titulo": "Adobe Animate",
+      "cor": "#FF3212",
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Intro to Adobe Animate 2020",
+          "url": "https://www.youtube.com/watch?v=7huMYp7WpsI"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Adobe Animate CC tutorial for Beginner",
+          "url": "https://www.youtube.com/watch?v=VYZoPkNzFXc"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Adobe Animate 2020",
+          "url": "https://www.youtube.com/watch?v=YhoqpbesFs0"
+        }
+      ]
+    },
+    {
+      "titulo": "After Effects",
+      "cor": "#CF9EFB",
+      "videos": [
+        {
+          "titulo": "Como fazer linhas Neon no After Effects",
+          "url": "https://www.youtube.com/watch?v=OyXS1xLPia8"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "TikTok Trends: Play Date Edit Tutorial",
+          "url": "https://www.youtube.com/watch?v=4l8_DpBJfl0"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Como fazer Motion Tracking",
+          "url": "https://www.youtube.com/watch?v=f5AdnIG5HAI"
+        },
+        {
+          "titulo": "Tutorial Básico de Animação",
+          "url": "https://www.youtube.com/watch?v=CUTOvOmhuc4"
         }
       ]
     }
