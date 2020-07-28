@@ -1,12 +1,13 @@
 import React from 'react';
+import Solly3 from "../../assets/img/Solly3.png";
 import { FooterBase } from './styles';
 
 function Footer() {
   return (
     <FooterBase>
-      {/* <a href="https://www.alura.com.br/">
-        <img src="https://www.alura.com.br/assets/img/alura-logo-white.1570550707.svg" alt="Logo Alura" />
-      </a> */}
+      <a href="https://github.com/Solly42" target="_blank">
+      <img className="Solly3" src={Solly3} alt="SollyFlix logo" />
+      </a>
       <p>
         Orgulhosamente criado durante a
         {' '}
