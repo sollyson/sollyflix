@@ -1,0 +1,202 @@
+{
+  "categorias": [{
+      "id": 1,
+      "titulo": "Photoshop",
+      "cor": "#00C8FE"
+    },
+    {
+      "id": 2,
+      "titulo": "Illustrator",
+      "cor": "#FE7318"
+    },
+    {
+      "id": 3,
+      "titulo": "Lightroom",
+      "cor": "#AEDAF0"
+    },
+    {
+      "id": 4,
+      "titulo": "Adobe Xd",
+      "cor": "#FF21C6"
+    },
+    {
+      "id": 5,
+      "titulo": "Adobe Animate",
+      "cor": "#FF3212"
+    },
+    {
+      "id": 6,
+      "titulo": "After Effects",
+      "cor": "#CF9EFB"
+    }
+  ],
+  "videos": [{
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "Chrome text effect on Photoshop",
+      "url": "https://www.youtube.com/watch?v=y8brTm5aslo&list=LLzdRU0WhE2aD1Zy92P1uRiA&index=49&t=0s"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Glitch Effect in Photoshop",
+      "url": "https://www.youtube.com/watch?v=57GQ1rS0yU0&list=PL9pkETrdJ0rb-BsDHwE0gmsj0duEXqbQ3&index=3"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "Duotone Photo Effect in Photoshop",
+      "url": "https://www.youtube.com/watch?v=27-XSSrj2rM&list=PL9pkETrdJ0rb-BsDHwE0gmsj0duEXqbQ3&index=4"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "Color Transition Animation in Photoshop",
+      "url": "https://www.youtube.com/watch?v=bBNohDeo8XI&list=PL9pkETrdJ0rb-BsDHwE0gmsj0duEXqbQ3&index=5"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "Dual Lighting Effect in Photoshop",
+      "url": "https://www.youtube.com/watch?v=nuRctOezeNs&list=PL9pkETrdJ0rb-BsDHwE0gmsj0duEXqbQ3&index=6"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "Glossy Transparent Cover",
+      "url": "https://www.youtube.com/watch?v=nW0wFO53qXk&list=PL9pkETrdJ0rb-BsDHwE0gmsj0duEXqbQ3&index=2"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "Como fazer Logotipo de e-Sports 3D no Photoshop",
+      "url": "https://www.youtube.com/watch?v=qZP1_Ag6Yr8&t=18s"
+    },
+    {
+      "id": 8,
+      "categoriaId": 1,
+      "titulo": "Glossy Transparent Cover",
+      "url": "https://www.youtube.com/watch?v=nW0wFO53qXk&list=PL9pkETrdJ0rb-BsDHwE0gmsj0duEXqbQ3&index=2"
+    },
+    {
+      "id": 9,
+      "categoriaId": 1,
+      "titulo": "Como desenhar no Photoshop",
+      "url": "https://www.youtube.com/watch?v=whj6Jt2vVC4"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "Animal Silhouette Moonlight Vector Illustration",
+      "url": "https://www.youtube.com/watch?v=RtnCn65MdN0&list=PLwnXQvUxjbNsvCG_rJJ8vzhbqtEjphKsf"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "Glass Planet Vector Illustration",
+      "url": "https://www.youtube.com/watch?v=Z2SNeH9v-Ug&list=PLwnXQvUxjbNsvCG_rJJ8vzhbqtEjphKsf&index=2"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "The Golden Ratio for Logo or Icon",
+      "url": "https://www.youtube.com/watch?v=6bkVu2xtypw&list=PLwnXQvUxjbNsvCG_rJJ8vzhbqtEjphKsf&index=3"
+    },
+    {
+      "id": 13,
+      "categoriaId": 2,
+      "titulo": "How to Make a Beautiful Landscape Background Design",
+      "url": "https://www.youtube.com/watch?v=1gwuBaAMycU"
+    },
+    {
+      "id": 14,
+      "categoriaId": 2,
+      "titulo": "Incredible 3D Dots and Lines Glowing Fiber",
+      "url": "https://www.youtube.com/watch?v=BlxkDgZTLVY&list=PLwnXQvUxjbNsvCG_rJJ8vzhbqtEjphKsf&index=6"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "titulo": "Tutorial - Efeito Black Paris",
+      "url": "https://www.youtube.com/watch?v=NKs4Fp3rRlg"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "Tutorial De Adobe Lightroom Para Iniciantes",
+      "url": "https://www.youtube.com/watch?v=CwHiL65Hg4I"
+    },
+    {
+      "id": 17,
+      "categoriaId": 3,
+      "titulo": "7 Dicas de Lightroom",
+      "url": "https://www.youtube.com/watch?v=hM3weLim9o0"
+    },
+    {
+      "id": 18,
+      "categoriaId": 4,
+      "titulo": "How to design a simple website in Adobe Xd for beginners",
+      "url": "https://www.youtube.com/watch?v=jHBMjjLY0Dw"
+    },
+    {
+      "id": 19,
+      "categoriaId": 4,
+      "titulo": "Top 5 UI/UX Design [Trends] Tips by Cuberto",
+      "url": "https://www.youtube.com/watch?v=gq9w14ag0ls"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "Website UI Design in Adobe XD + Exporting as HTML/CSS",
+      "url": "https://www.youtube.com/watch?v=goI6JHO99Qg"
+    },
+    {
+      "id": 21,
+      "categoriaId": 4,
+      "titulo": "Adobe XD Top 10 Plugins",
+      "url": "https://www.youtube.com/watch?v=d-Hxze_r9rU"
+    },
+    {
+      "id": 22,
+      "categoriaId": 5,
+      "titulo": "Intro to Adobe Animate 2020",
+      "url": "https://www.youtube.com/watch?v=7huMYp7WpsI"
+    },
+    {
+      "id": 23,
+      "categoriaId": 5,
+      "titulo": "Adobe Animate CC tutorial for Beginner",
+      "url": "https://www.youtube.com/watch?v=VYZoPkNzFXc"
+    },
+    {
+      "id": 24,
+      "categoriaId": 5,
+      "titulo": "Adobe Animate 2020",
+      "url": "https://www.youtube.com/watch?v=YhoqpbesFs0"
+    },
+    {
+      "id": 25,
+      "categoriaId": 6,
+      "titulo": "Como fazer linhas Neon no After Effects",
+      "url": "https://www.youtube.com/watch?v=OyXS1xLPia8"
+    },
+    {
+      "id": 26,
+      "categoriaId": 6,
+      "titulo": "TikTok Trends: Play Date Edit Tutorial",
+      "url": "https://www.youtube.com/watch?v=4l8_DpBJfl0"
+    },
+    {
+      "id": 27,
+      "categoriaId": 6,
+      "titulo": "Como fazer Motion Tracking",
+      "url": "https://www.youtube.com/watch?v=f5AdnIG5HAI"
+    },
+    {
+      "id": 28,
+      "categoriaId": 6,
+      "titulo": "Tutorial Básico de Animação",
+      "url": "https://www.youtube.com/watch?v=CUTOvOmhuc4"
+    }
+  ]
+}
